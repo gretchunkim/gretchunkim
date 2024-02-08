@@ -1,4 +1,8 @@
-### Hi there 👋
+
+
+*I’m all about turning complicated IT stuff into easy-to-use solutions.*
+### About Me
+From nutrition and food science through to biotech R&D and now tech, my career has been about breaking down complex processes and enhancing decision-making with data analysis and critical thinking. My work, driven by scientific rigor and a knack for tech innovation, focuses on creating practical solutions.  And, echoing a cornerstone principle from the scientific world: if it’s not documented, it didn’t happen."  
 
 <!--
 **gretchunkim/gretchunkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
